@@ -51,7 +51,7 @@ With filter
 
 <img width="957" height="559" alt="Screenshot 2025-12-25 195531" src="https://github.com/user-attachments/assets/4754205b-842f-44ef-a21d-2abd7a036e01" />
 
-
+![5](https://github.com/user-attachments/assets/1cc286fa-8f63-419d-b4d1-d043b0a3678e)
 Bridge rectifier
 Without Filter
 
@@ -65,13 +65,14 @@ Without Filter
 
 With filter
 
-![4](https://github.com/user-attachments/assets/79abb8df-cb04-4cc6-b950-4d8c25379735)
+![5](https://github.com/user-attachments/assets/7270c6cd-e43c-432b-a845-13640c925340)
+
 
 <img width="957" height="558" alt="Screenshot 2025-12-25 201332" src="https://github.com/user-attachments/assets/9618b1d0-43d5-47d5-a6ff-4321529a0a0e" />
 
 <img width="954" height="559" alt="Screenshot 2025-12-25 195944" src="https://github.com/user-attachments/assets/25ab977a-3f44-4788-a6eb-392c6e63f953" />
 
-![5](https://github.com/user-attachments/assets/1cc286fa-8f63-419d-b4d1-d043b0a3678e)
+
 
 TABULAR COLUMN
 
