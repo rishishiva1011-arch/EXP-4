@@ -49,20 +49,37 @@ With filter
 
 <img width="959" height="561" alt="Screenshot 2025-12-25 201113" src="https://github.com/user-attachments/assets/4e916ed9-4e99-4693-a021-4212b07172c0" />
 
-<img width="959" height="561" alt="Screenshot 2025-12-25 201113" src="https://github.com/user-attachments/assets/3b7cf083-3493-47f4-bbee-1d41ff3ca58c" />
-
-
 <img width="957" height="559" alt="Screenshot 2025-12-25 195531" src="https://github.com/user-attachments/assets/4754205b-842f-44ef-a21d-2abd7a036e01" />
 
 
-Bridge rectifier with filter:
+Bridge rectifier
+Without Filter
+
+![2](https://github.com/user-attachments/assets/0208c396-d48a-41cf-825c-a9df6a287ad7)
+
+
+<img width="957" height="558" alt="Screenshot 2025-12-25 201332" src="https://github.com/user-attachments/assets/24839701-4b86-4a91-b44f-f95977689e68" />
+
+
+<img width="955" height="557" alt="Screenshot 2025-12-25 195848" src="https://github.com/user-attachments/assets/80fd57ed-bccf-4740-8f48-40da665fa97a" />
+
+With filter
+
+![4](https://github.com/user-attachments/assets/79abb8df-cb04-4cc6-b950-4d8c25379735)
+
+<img width="957" height="558" alt="Screenshot 2025-12-25 201332" src="https://github.com/user-attachments/assets/9618b1d0-43d5-47d5-a6ff-4321529a0a0e" />
+
+<img width="954" height="559" alt="Screenshot 2025-12-25 195944" src="https://github.com/user-attachments/assets/25ab977a-3f44-4788-a6eb-392c6e63f953" />
+
+![5](https://github.com/user-attachments/assets/1cc286fa-8f63-419d-b4d1-d043b0a3678e)
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
 
-WAVEFORM:
+Half wave rectifier 
+![6](https://github.com/user-attachments/assets/83ba7962-132e-41a4-8d1e-213bcd7cc632)
+
+Bridge rectifier
+![7](https://github.com/user-attachments/assets/22979505-c3ec-410c-b325-8dd930499cec)
 
 
 RESULT:
