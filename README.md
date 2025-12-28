@@ -55,7 +55,8 @@ With filter
 Bridge rectifier
 Without Filter
 
-![2](https://github.com/user-attachments/assets/0208c396-d48a-41cf-825c-a9df6a287ad7)
+![photo_2025-12-28_22-56-00](https://github.com/user-attachments/assets/1531255c-6709-464d-b497-6168bca3410e)
+
 
 
 <img width="957" height="558" alt="Screenshot 2025-12-25 201332" src="https://github.com/user-attachments/assets/24839701-4b86-4a91-b44f-f95977689e68" />
