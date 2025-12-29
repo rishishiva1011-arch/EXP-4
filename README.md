@@ -51,7 +51,7 @@ With filter
 
 <img width="957" height="559" alt="Screenshot 2025-12-25 195531" src="https://github.com/user-attachments/assets/4754205b-842f-44ef-a21d-2abd7a036e01" />
 
-![5](https://github.com/user-attachments/assets/1cc286fa-8f63-419d-b4d1-d043b0a3678e)
+
 Bridge rectifier
 Without Filter
 
